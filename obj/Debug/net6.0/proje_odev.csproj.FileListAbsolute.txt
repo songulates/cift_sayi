@@ -1,0 +1,15 @@
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\bin\Debug\net6.0\proje_odev.exe
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\bin\Debug\net6.0\proje_odev.deps.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\bin\Debug\net6.0\proje_odev.runtimeconfig.json
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\bin\Debug\net6.0\proje_odev.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\bin\Debug\net6.0\proje_odev.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.csproj.AssemblyReference.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.AssemblyInfoInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.AssemblyInfo.cs
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.csproj.CoreCompileInputs.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\refint\proje_odev.dll
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.pdb
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\proje_odev.genruntimeconfig.cache
+C:\Users\Miktat_Leptop\Documents\visual_code_proje\proje_odev\obj\Debug\net6.0\ref\proje_odev.dll
